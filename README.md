@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Dushyant Sharma
 
-<!--
-**dushyantsharma1891/dushyantsharma1891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student
+💻 Full Stack Developer (Learning)
+🤖 Interested in AI & Web Development
+🌱 Currently learning React, Node.js and Full Stack Development
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* JavaScript
+* React
+* Node.js
+* Java
+* Git & GitHub
+
+## 📌 Projects
+
+* Smart Cooking Assistant
+* Student Registration System
+* AI Web Projects
+
+## 📫 Connect With Me
+
+* LinkedIn: Your LinkedIn URL
+* Email: Your Email
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=dushyantsharma1891\&show_icons=true)
